@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://cr3w.netlify.app/](https://cr3w.netlify.app/)
+- 👨‍💻 Want to know everything about me? [https://cr3w.netlify.app/](https://cr3w.netlify.app/)
 
 - 💬 Ask me about **Django, react, python, Django Rest Framework and Mysql**
 
