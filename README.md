@@ -34,6 +34,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souraaaaav&show_icons=true&locale=en&layout=compact" alt="souraaaaav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souraaaaav&show_icons=true&locale=en" alt="souraaaaav" /></p>
+<p>&nbsp;<img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=souraaaaav&show_icons=true&locale=en" alt="souraaaaav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souraaaaav&" alt="souraaaaav" /></p>
+<p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=souraaaaav&" alt="souraaaaav" /></p>
+<p><a href="https://github.com/souraaaaav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souraaaaav&theme=light&hide_langs_below=1" />
+</a></p>
+
