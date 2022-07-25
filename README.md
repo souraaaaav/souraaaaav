@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Debnath</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh.</h3>
 
-![gitartwork](gitartwork.svg)
+![gitartwork](changed.svg)
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
