@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Debnath</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh.</h3>
 
-
+![gitartwork](gitartwork.svg)
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -39,4 +39,3 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=souraaaaav&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/souraaaaav/souraaaaav/blob/output/github-contribution-grid-snake.gif)
