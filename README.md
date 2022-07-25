@@ -38,3 +38,5 @@
 <p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=souraaaaav&" alt="souraaaaav" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=souraaaaav&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![snake gif](https://github.com/souraaaaav/souraaaaav/blob/output/github-contribution-grid-snake.gif)
